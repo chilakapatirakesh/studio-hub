@@ -1,0 +1,712 @@
+{
+ "channels": [
+  {
+   "no": 1,
+   "name": "Rocky C. Show",
+   "handle": "@RockyCshow",
+   "genre": "Cartoon infographic what-if explainers",
+   "palette": [
+    {
+     "name": "Primary",
+     "hex": "#1F3A68"
+    },
+    {
+     "name": "Secondary",
+     "hex": "#D9483B"
+    },
+    {
+     "name": "Accent",
+     "hex": "#FFC83D"
+    },
+    {
+     "name": "Ink",
+     "hex": "#16233F"
+    },
+    {
+     "name": "Dark",
+     "hex": "#15213D"
+    },
+    {
+     "name": "Coral",
+     "hex": "#FF6B5B"
+    },
+    {
+     "name": "Text",
+     "hex": "#FFFFFF"
+    }
+   ],
+   "isNew": false,
+   "url": "https://www.youtube.com/@RockyCshow",
+   "logo": "assets/logos/rocky-c-show.png",
+   "banner": "assets/banners/rocky-c-show.jpg"
+  },
+  {
+   "no": 2,
+   "name": "Footnote Desk",
+   "handle": "@footnotedesk",
+   "genre": "Why everyday things exist",
+   "palette": [
+    {
+     "name": "Primary",
+     "hex": "#FF5A36"
+    },
+    {
+     "name": "Secondary",
+     "hex": "#1F6FEB"
+    },
+    {
+     "name": "Accent",
+     "hex": "#FFD23F"
+    },
+    {
+     "name": "Ink",
+     "hex": "#1B1714"
+    },
+    {
+     "name": "Deep",
+     "hex": "#3A2A1C"
+    }
+   ],
+   "isNew": false,
+   "url": "https://www.youtube.com/@footnotedesk",
+   "logo": "assets/logos/footnote-desk.png",
+   "banner": "assets/banners/footnote-desk.jpg"
+  },
+  {
+   "no": 3,
+   "name": "Rocky C. Voz",
+   "handle": "@rockycvoz",
+   "genre": "Vox-style explanatory journalism",
+   "palette": [
+    {
+     "name": "Primary",
+     "hex": "#2FA35B"
+    },
+    {
+     "name": "Secondary",
+     "hex": "#262420"
+    },
+    {
+     "name": "Accent",
+     "hex": "#EFCF4A"
+    },
+    {
+     "name": "Deep",
+     "hex": "#3D382E"
+    },
+    {
+     "name": "Paper",
+     "hex": "#ECEBDC"
+    }
+   ],
+   "isNew": false,
+   "url": "https://www.youtube.com/@rockycvoz",
+   "logo": "assets/logos/rocky-c-voz.png",
+   "banner": "assets/banners/rocky-c-voz.jpg"
+  },
+  {
+   "no": 4,
+   "name": "Punch Card Payback",
+   "handle": "@punchcardpayback",
+   "genre": "Animated workplace karma stories",
+   "palette": [
+    {
+     "name": "Primary",
+     "hex": "#E0393E"
+    },
+    {
+     "name": "Secondary",
+     "hex": "#F2B32A"
+    },
+    {
+     "name": "Accent",
+     "hex": "#1B1F3B"
+    },
+    {
+     "name": "Deep",
+     "hex": "#2E3466"
+    },
+    {
+     "name": "Cream",
+     "hex": "#FFF6E3"
+    }
+   ],
+   "isNew": false,
+   "url": "https://www.youtube.com/@punchcardpayback",
+   "logo": "assets/logos/punch-card-payback.png",
+   "banner": "assets/banners/punch-card-payback.jpg"
+  },
+  {
+   "no": 5,
+   "name": "Axolotl Atlas",
+   "handle": "@axolotlatlas",
+   "genre": "Calm 3D science explainers",
+   "palette": [
+    {
+     "name": "Primary",
+     "hex": "#FF5FA2"
+    },
+    {
+     "name": "Secondary",
+     "hex": "#7C5CFF"
+    },
+    {
+     "name": "Accent",
+     "hex": "#4CC9F0"
+    },
+    {
+     "name": "Ink",
+     "hex": "#1B1446"
+    },
+    {
+     "name": "Deep",
+     "hex": "#2D1B69"
+    }
+   ],
+   "isNew": false,
+   "url": "https://www.youtube.com/@axolotlatlas",
+   "logo": "assets/logos/axolotl-atlas.png",
+   "banner": "assets/banners/axolotl-atlas.jpg"
+  },
+  {
+   "no": 6,
+   "name": "EraFramed",
+   "handle": "@eraframed",
+   "genre": "Current affairs and power explainers",
+   "palette": [
+    {
+     "name": "Primary",
+     "hex": "#A55704"
+    },
+    {
+     "name": "Secondary",
+     "hex": "#09251C"
+    },
+    {
+     "name": "Accent",
+     "hex": "#D9822B"
+    },
+    {
+     "name": "Deep",
+     "hex": "#3A2410"
+    },
+    {
+     "name": "Background",
+     "hex": "#F8EADC"
+    },
+    {
+     "name": "Peach",
+     "hex": "#F3D2AF"
+    }
+   ],
+   "isNew": false,
+   "url": "https://www.youtube.com/@eraframed",
+   "logo": "assets/logos/eraframed.png",
+   "banner": "assets/banners/eraframed.jpg"
+  },
+  {
+   "no": 7,
+   "name": "Rocky C. Studio",
+   "handle": "@rockycentertainmentofficial",
+   "genre": "Indian history in art styles",
+   "palette": [
+    {
+     "name": "Primary",
+     "hex": "#4F46E5"
+    },
+    {
+     "name": "Secondary",
+     "hex": "#14B8A6"
+    },
+    {
+     "name": "Accent",
+     "hex": "#FF5A3C"
+    },
+    {
+     "name": "Ink",
+     "hex": "#0F172A"
+    },
+    {
+     "name": "Deep",
+     "hex": "#312E81"
+    },
+    {
+     "name": "Background",
+     "hex": "#FFFFFF"
+    },
+    {
+     "name": "Surface",
+     "hex": "#F1F5F9"
+    }
+   ],
+   "isNew": false,
+   "url": "https://www.youtube.com/@rockycentertainmentofficial",
+   "logo": "assets/logos/rocky-c-studio.png",
+   "banner": "assets/banners/rocky-c-studio.jpg"
+  },
+  {
+   "no": 8,
+   "name": "Hackcidents",
+   "handle": "@hackcidents",
+   "genre": "Animated cybersecurity awareness confessions",
+   "palette": [
+    {
+     "name": "Primary",
+     "hex": "#FF2E88"
+    },
+    {
+     "name": "Secondary",
+     "hex": "#22D3EE"
+    },
+    {
+     "name": "Accent",
+     "hex": "#FFC857"
+    },
+    {
+     "name": "Dark",
+     "hex": "#070A1F"
+    },
+    {
+     "name": "Deep",
+     "hex": "#0B1033"
+    }
+   ],
+   "isNew": false,
+   "url": "https://www.youtube.com/@hackcidents",
+   "logo": "assets/logos/hackcidents.png",
+   "banner": "assets/banners/hackcidents.jpg"
+  },
+  {
+   "no": 9,
+   "name": "Kiddlume",
+   "handle": "@kiddlumeofficial",
+   "genre": "Preschool sing-along nursery songs",
+   "palette": [
+    {
+     "name": "Primary",
+     "hex": "#FF69B4"
+    },
+    {
+     "name": "Secondary",
+     "hex": "#2F80D8"
+    },
+    {
+     "name": "Accent",
+     "hex": "#FFD700"
+    },
+    {
+     "name": "Mint",
+     "hex": "#98D8C8"
+    },
+    {
+     "name": "Lavender",
+     "hex": "#C8A2C8"
+    },
+    {
+     "name": "Orange",
+     "hex": "#FF6B35"
+    }
+   ],
+   "isNew": false,
+   "url": "https://www.youtube.com/@kiddlumeofficial",
+   "logo": "assets/logos/kiddlume.png",
+   "banner": "assets/banners/kiddlume.jpg"
+  },
+  {
+   "no": 10,
+   "name": "Rocky C. World",
+   "handle": "@rockycworld",
+   "genre": "Animated everyday science worlds",
+   "palette": [
+    {
+     "name": "Primary",
+     "hex": "#3D5AFE"
+    },
+    {
+     "name": "Secondary",
+     "hex": "#7C4DFF"
+    },
+    {
+     "name": "Accent",
+     "hex": "#FFC400"
+    },
+    {
+     "name": "Ink",
+     "hex": "#05060D"
+    },
+    {
+     "name": "Dark",
+     "hex": "#070918"
+    },
+    {
+     "name": "Deep",
+     "hex": "#1B1446"
+    },
+    {
+     "name": "Slate",
+     "hex": "#141A3A"
+    },
+    {
+     "name": "Paper",
+     "hex": "#F5F1E8"
+    }
+   ],
+   "isNew": false,
+   "url": "https://www.youtube.com/@rockycworld",
+   "logo": "assets/logos/rocky-c-world.png",
+   "banner": "assets/banners/rocky-c-world.jpg"
+  },
+  {
+   "no": 11,
+   "name": "Rocky C. Films",
+   "handle": "@rockycfilms",
+   "genre": "3D object and machine explainers",
+   "palette": [
+    {
+     "name": "Primary",
+     "hex": "#FF3929"
+    },
+    {
+     "name": "Secondary",
+     "hex": "#1A1A1C"
+    },
+    {
+     "name": "Accent",
+     "hex": "#832B23"
+    },
+    {
+     "name": "Ink",
+     "hex": "#0D0D0F"
+    }
+   ],
+   "isNew": false,
+   "url": "https://www.youtube.com/@rockycfilms",
+   "logo": "assets/logos/rocky-c-films.png",
+   "banner": "assets/banners/rocky-c-films.jpg"
+  },
+  {
+   "no": 12,
+   "name": "ASCII to AI",
+   "handle": "@asciitoai",
+   "genre": "Computer science and AI explainers",
+   "palette": [
+    {
+     "name": "Background",
+     "hex": "#0D1117"
+    },
+    {
+     "name": "Accent",
+     "hex": "#3FE08F"
+    },
+    {
+     "name": "Blue",
+     "hex": "#4C8DFF"
+    },
+    {
+     "name": "Purple",
+     "hex": "#7C3AED"
+    },
+    {
+     "name": "Ink",
+     "hex": "#1E1B4B"
+    },
+    {
+     "name": "White",
+     "hex": "#FFFFFF"
+    }
+   ],
+   "isNew": false,
+   "url": "https://www.youtube.com/@asciitoai",
+   "logo": "assets/logos/ascii-to-ai.png",
+   "banner": "assets/banners/ascii-to-ai.jpg"
+  },
+  {
+   "no": 13,
+   "name": "Allwissen",
+   "handle": "@AllwissenOfficial",
+   "genre": "Kurzgesagt-style cosmic science explainers",
+   "palette": [
+    {
+     "name": "Primary",
+     "hex": "#5B3CF2"
+    },
+    {
+     "name": "Secondary",
+     "hex": "#C43BE8"
+    },
+    {
+     "name": "Accent",
+     "hex": "#FF7A2E"
+    },
+    {
+     "name": "Ink",
+     "hex": "#0B0724"
+    },
+    {
+     "name": "Deep",
+     "hex": "#241A74"
+    },
+    {
+     "name": "Night",
+     "hex": "#150E40"
+    },
+    {
+     "name": "Violet",
+     "hex": "#3C23B0"
+    },
+    {
+     "name": "Lavender",
+     "hex": "#A58BFF"
+    }
+   ],
+   "isNew": false,
+   "url": "https://www.youtube.com/@AllwissenOfficial",
+   "logo": "assets/logos/allwissen.png",
+   "banner": "assets/banners/allwissen.jpg"
+  },
+  {
+   "no": 14,
+   "name": "Rocky C. Animations",
+   "handle": "@rockycanimations",
+   "genre": "Stick figure fight animations",
+   "palette": [
+    {
+     "name": "Primary",
+     "hex": "#2FE0C0"
+    },
+    {
+     "name": "Secondary",
+     "hex": "#17213A"
+    },
+    {
+     "name": "Accent",
+     "hex": "#FFC93C"
+    },
+    {
+     "name": "Deep",
+     "hex": "#0D1424"
+    }
+   ],
+   "isNew": false,
+   "url": "https://www.youtube.com/@rockycanimations",
+   "logo": "assets/logos/rocky-c-animations.png",
+   "banner": "assets/banners/rocky-c-animations.jpg"
+  },
+  {
+   "no": 15,
+   "name": "Five Idiots Saving Humanity",
+   "handle": "@FiveIdiotsSavingHumanity",
+   "genre": "Animated superhero sitcom comedy",
+   "palette": [
+    {
+     "name": "Primary",
+     "hex": "#22B3A8"
+    },
+    {
+     "name": "Secondary",
+     "hex": "#FFC83D"
+    },
+    {
+     "name": "Accent",
+     "hex": "#F0821E"
+    },
+    {
+     "name": "Dark",
+     "hex": "#0E2A3A"
+    },
+    {
+     "name": "Deep",
+     "hex": "#3A1F1A"
+    }
+   ],
+   "isNew": false,
+   "url": "https://www.youtube.com/@FiveIdiotsSavingHumanity",
+   "logo": "assets/logos/five-idiots-saving-humanity.png",
+   "banner": "assets/banners/five-idiots-saving-humanity.jpg"
+  },
+  {
+   "no": 16,
+   "name": "Rocky C. Why We Do It",
+   "handle": "@rockycwhywedoit",
+   "genre": "Psychology and human behaviour",
+   "palette": [
+    {
+     "name": "Night",
+     "hex": "#15163A"
+    },
+    {
+     "name": "Indigo",
+     "hex": "#2B2D6E"
+    },
+    {
+     "name": "Lavender",
+     "hex": "#A78BFA"
+    },
+    {
+     "name": "Coral",
+     "hex": "#FF7A6B"
+    },
+    {
+     "name": "Mint",
+     "hex": "#5EEAD4"
+    },
+    {
+     "name": "Cream",
+     "hex": "#FFF4E6"
+    }
+   ],
+   "isNew": true,
+   "url": "",
+   "logo": "assets/logos/rocky-c-why-we-do-it.png",
+   "banner": "assets/banners/rocky-c-why-we-do-it.jpg"
+  },
+  {
+   "no": 17,
+   "name": "Rocky C. Pocket Ledger",
+   "handle": "@rockycpocketledger",
+   "genre": "Simple personal finance basics",
+   "palette": [
+    {
+     "name": "Deep Forest",
+     "hex": "#0A3A24"
+    },
+    {
+     "name": "Forest",
+     "hex": "#0F5132"
+    },
+    {
+     "name": "Money Green",
+     "hex": "#22C55E"
+    },
+    {
+     "name": "Gold",
+     "hex": "#F5B700"
+    },
+    {
+     "name": "Paper",
+     "hex": "#FAF7EF"
+    },
+    {
+     "name": "Ink Navy",
+     "hex": "#0B1F33"
+    }
+   ],
+   "isNew": true,
+   "url": "",
+   "logo": "assets/logos/rocky-c-pocket-ledger.png",
+   "banner": "assets/banners/rocky-c-pocket-ledger.jpg"
+  },
+  {
+   "no": 18,
+   "name": "Rocky C. Meme Lore",
+   "handle": "@rockycmemelore",
+   "genre": "Internet memes and trends explained",
+   "palette": [
+    {
+     "name": "Void Black",
+     "hex": "#111111"
+    },
+    {
+     "name": "Hyper Purple",
+     "hex": "#7B2FF7"
+    },
+    {
+     "name": "Hot Magenta",
+     "hex": "#FF2E93"
+    },
+    {
+     "name": "Electric Cyan",
+     "hex": "#00E5FF"
+    },
+    {
+     "name": "Acid Yellow",
+     "hex": "#FFE600"
+    },
+    {
+     "name": "White",
+     "hex": "#FFFFFF"
+    }
+   ],
+   "isNew": true,
+   "url": "",
+   "logo": "assets/logos/rocky-c-meme-lore.png",
+   "banner": "assets/banners/rocky-c-meme-lore.jpg"
+  },
+  {
+   "no": 19,
+   "name": "Rocky C. Rise & Ruin",
+   "handle": "@rockycriseandruin",
+   "genre": "Business empire rise-and-fall stories",
+   "palette": [
+    {
+     "name": "Ink",
+     "hex": "#111214"
+    },
+    {
+     "name": "Charcoal",
+     "hex": "#1C1C1E"
+    },
+    {
+     "name": "Gold",
+     "hex": "#D4A017"
+    },
+    {
+     "name": "Rise Green",
+     "hex": "#2EAD5B"
+    },
+    {
+     "name": "Ruin Red",
+     "hex": "#D7263D"
+    },
+    {
+     "name": "Paper",
+     "hex": "#F3EDE2"
+    }
+   ],
+   "isNew": true,
+   "url": "",
+   "logo": "assets/logos/rocky-c-rise-ruin.png",
+   "banner": "assets/banners/rocky-c-rise-ruin.jpg"
+  },
+  {
+   "no": 20,
+   "name": "Rocky C. Brain Bend",
+   "handle": "@rockycbrainbend",
+   "genre": "Riddles, brain teasers, logic puzzles",
+   "palette": [
+    {
+     "name": "Midnight",
+     "hex": "#10142B"
+    },
+    {
+     "name": "Deep Violet",
+     "hex": "#3B1585"
+    },
+    {
+     "name": "Violet",
+     "hex": "#6C2BD9"
+    },
+    {
+     "name": "Orange",
+     "hex": "#FF8A00"
+    },
+    {
+     "name": "Sky",
+     "hex": "#38BDF8"
+    },
+    {
+     "name": "Lime",
+     "hex": "#A3E635"
+    },
+    {
+     "name": "White",
+     "hex": "#FFFFFF"
+    }
+   ],
+   "isNew": true,
+   "url": "",
+   "logo": "assets/logos/rocky-c-brain-bend.png",
+   "banner": "assets/banners/rocky-c-brain-bend.jpg"
+  }
+ ]
+}
